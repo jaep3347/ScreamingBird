@@ -1,0 +1,19 @@
+TP 1
+Project Proposal + Competitive Analysis + Story Board: 2 hours
+Learning Pygame (syntax, etc) and exploring modules: 2 hours
+Coding (audio analysis and speech recognition): 6 hours
+
+TP 2
+Designing the whole user interface as well as photoshopping necessary images for
+building the game: 20 hours
+Getting real time audio analysis working and making my own flappy bird without
+sound input recognized: 15 hours
+
+TP 3
+Integrating audio analysis into game: 5 hours
+Integrating audio input into game: 10 hours
+Integrating high scorer into game: 3 hours
+Integrating setting into game: 5 hours
+Additional photoshop: 5 hours
+Additional UI and pygame improvements: 15 hours
+
