@@ -9,4 +9,5 @@ Modules needed to be installed:
 All assets are included in the assets folder
 
 run the game using finalScreamingBird.py
+
 python3 only
