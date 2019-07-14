@@ -11,3 +11,5 @@ All assets are included in the assets folder
 run the game using finalScreamingBird.py
 
 python3 only
+
+https://www.youtube.com/watch?v=6lRaLpRxF9Y
